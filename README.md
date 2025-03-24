@@ -3,17 +3,17 @@
 ### Emails
 <table border="0">
    <tr>
-      <td align="center">
+      <td align="center" border="0">
          <img src="images/funding-1.png" width="100"><br>
          <a href="https://nvco.github.io/email-samples/funding_1/index.html">View</a> | 
          <a href="funding_1/index.html">HTML</a>
       </td>
-      <td align="center">
+      <td align="center" border="0">
          <img src="images/funding-2.png" width="100"><br>
          <a href="https://nvco.github.io/email-samples/funding_2/index.html">View</a> | 
          <a href="funding_2/index.html">HTML</a>
       </td>
-      <td align="center">
+      <td align="center" border="0">
          <img src="images/funding-3.png" width="100"><br>
          <a href="https://nvco.github.io/email-samples/funding_3/index.html">View</a> | 
          <a href="funding_3/index.html">HTML</a>
