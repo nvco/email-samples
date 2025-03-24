@@ -1,6 +1,6 @@
 # Emails and Strategy Plan
 
-### Emails
+## Emails
 <table border="0">
    <tr>
       <td align="center" border="0">
@@ -21,28 +21,28 @@
    </tr>
 </table>
 
-### Goal 
+## Goal 
 Raise money by June 30, 2025 for children’s education and health programs.
 
-### Audience
+## Audience
 Assumed mix of past donors and new prospects, segmented on typical fundraising lists (e.g., prior givers, event attendees, community contacts).
 
-### Timeline
+## Timeline
 - June 16: Intro email (“Together We Can…”).
 - June 23: Reminder email (“Your Chance…”).
 - June 30: Last chance email (“Last Hours…”).
 
-### Approach
-#### Email 1
+## Approach
+### Email 1
 Bright and informational design to grab attention and ensure memorability, using bold titles and clear impact stats.
 
-#### Email 2
+### Email 2
 Halfway reminder with warmer colors (e.g., oranges, yellows), building momentum and prepping for the final push.
 
-#### Email 3
+### Email 3
 Strong red, black, and white design with a red CTA button, emphasizing urgency and finality.
 
-### Testing Plan
+## Testing Plan
 
 **If existing templates**, test this sequence against current ones:
 - 10% old template, 
@@ -53,5 +53,5 @@ Strong red, black, and white design with a red CTA button, emphasizing urgency a
 - test 10% each, and 
 - deploy the winner to 80%, tracking open and conversion rates to optimize.
 
-### Metrics
+## Metrics
 Target 20% open rate and 5% click-to-donate rate per email as a starting benchmark, based on industry averages for nonprofit campaigns (adjustable with real data post-test).
